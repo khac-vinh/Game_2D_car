@@ -9,6 +9,8 @@
 /[Bb]uild/
 /[Bb]uilds/
 /[Ll]ogs/
+[Mm]emoryCaptures/
+UserSettings/
 /[Uu]ser[Ss]ettings/
 *.log
 
